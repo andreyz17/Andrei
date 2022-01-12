@@ -15,6 +15,9 @@ print(string.find("tu"))
 
 # TODO USE OF THE METHODS FOR STRINGS
 
-string[0]="w" #imutibility
+# string[0]="w" #imutibility
 
 #TODO primul mesaj sa inceapa cu W gen " wreptunghi "
+
+x="w" + string[1:]
+print(x)
